@@ -1,4 +1,4 @@
 # hello-world
-my ideas
+my ideas, my journey
 
 *Brij Sharma*
